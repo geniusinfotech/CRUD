@@ -640,7 +640,7 @@ db.movies.insertMany([
   },
 ]);
 
-//Home Work
+//Home Work(Use Mockapi.io)
 db.users.insertMany([
   {
     createdAt: "2024-08-23T11:38:31.590Z",
